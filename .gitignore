@@ -1,0 +1,6 @@
+# Python bytecode / cache
+__pycache__/
+
+
+# Linters / type checkers / tests (flake8, mypy)
+.mypy_cache/
